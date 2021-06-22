@@ -6,7 +6,7 @@ const VideoWidget = ({ videoId, videoAutoplay = false }) => {
   const opts = {
     playerVars: {
       autoplay: 1,
-      muted: 0,
+      mute: 0,
     },
   };
 
