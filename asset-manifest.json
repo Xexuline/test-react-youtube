@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/static/js/main.8a0bf370.chunk.js",
-    "main.js.map": "/static/js/main.8a0bf370.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b20e8db9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b20e8db9.js.map",
-    "static/js/2.cabf7e28.chunk.js": "/static/js/2.cabf7e28.chunk.js",
-    "static/js/2.cabf7e28.chunk.js.map": "/static/js/2.cabf7e28.chunk.js.map",
-    "static/js/3.1701e1ff.chunk.js": "/static/js/3.1701e1ff.chunk.js",
-    "static/js/3.1701e1ff.chunk.js.map": "/static/js/3.1701e1ff.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.cabf7e28.chunk.js.LICENSE.txt": "/static/js/2.cabf7e28.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/test-react-youtube/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/test-react-youtube/static/js/main.8a0bf370.chunk.js",
+    "main.js.map": "/test-react-youtube/static/js/main.8a0bf370.chunk.js.map",
+    "runtime-main.js": "/test-react-youtube/static/js/runtime-main.b67f611f.js",
+    "runtime-main.js.map": "/test-react-youtube/static/js/runtime-main.b67f611f.js.map",
+    "static/js/2.ada205d0.chunk.js": "/test-react-youtube/static/js/2.ada205d0.chunk.js",
+    "static/js/2.ada205d0.chunk.js.map": "/test-react-youtube/static/js/2.ada205d0.chunk.js.map",
+    "static/js/3.1701e1ff.chunk.js": "/test-react-youtube/static/js/3.1701e1ff.chunk.js",
+    "static/js/3.1701e1ff.chunk.js.map": "/test-react-youtube/static/js/3.1701e1ff.chunk.js.map",
+    "index.html": "/test-react-youtube/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/test-react-youtube/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.ada205d0.chunk.js.LICENSE.txt": "/test-react-youtube/static/js/2.ada205d0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/test-react-youtube/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b20e8db9.js",
-    "static/js/2.cabf7e28.chunk.js",
+    "static/js/runtime-main.b67f611f.js",
+    "static/js/2.ada205d0.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.8a0bf370.chunk.js"
   ]
