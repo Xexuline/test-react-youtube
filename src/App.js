@@ -1,12 +1,11 @@
-import logo from "./logo.svg";
 import YouTube from "react-youtube";
 import "./App.css";
 
-const VideoWidget = ({ videoId, videoAutoplay = false }) => {
+const VideoWidget = ({ videoId, videoAutoplay = 0, videoMute = 0 }) => {
   const opts = {
     playerVars: {
-      autoplay: 1,
-      mute: 0,
+      autoplay: videoAutoplay,
+      mute: videoMute,
     },
   };
 
@@ -17,7 +16,6 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -30,7 +28,16 @@ function App() {
           Learn React
         </a>
       </header>
-      <VideoWidget videoId="vkPxNwV3izw" videoAutoplay="true"></VideoWidget>
+      <VideoWidget
+        videoId="vkPxNwV3izw"
+        videoAutoplay="0"
+        videoMute="0"
+      ></VideoWidget>
+      <VideoWidget
+        videoId="vkPxNwV3izw"
+        videoAutoplay="1"
+        videoMute="1"
+      ></VideoWidget>
     </div>
   );
 }
