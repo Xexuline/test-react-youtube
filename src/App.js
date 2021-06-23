@@ -1,5 +1,4 @@
 import YouTube from "react-youtube";
-import "./App.css";
 
 const VideoWidget = ({ videoId, videoAutoplay = 0, videoMute = 0 }) => {
   const opts = {
